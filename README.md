@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 My motivation to build this webpage was to make it easier to recall and retain the information learned while studying programming subjects
 The webpage makes it easy to navigate between the subjects and access the information I have learned. 
 Through making this webpage I have received an introduction in HTML, CSS, Git, and JavaScript. 
